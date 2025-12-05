@@ -4,7 +4,7 @@
 ![Framework](https://img.shields.io/badge/GUI-PySide6-green)
 ![API](https://img.shields.io/badge/API-OpenAI%20%7C%20Gemini-orange)
 
-Una aplicación de escritorio diseñada para orquestar debates automatizados entre dos de los Modelos de Lenguaje (LLMs) más potentes del mercado: **GPT-4** (OpenAI) y **Gemini 1.5** (Google).
+Una aplicación de escritorio diseñada para orquestar debates automatizados entre dos Modelos de Lenguaje (LLMs): **GPT-4** (OpenAI) y **Gemini 1.5** (Google).
 
 La herramienta permite definir "personalidades" (System Prompts) para cada modelo y observar cómo interactúan, debaten o resuelven problemas en un bucle de conversación autónomo, todo desde una interfaz gráfica nativa.
 
